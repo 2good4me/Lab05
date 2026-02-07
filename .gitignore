@@ -1,0 +1,79 @@
+# Unity generated folders
+[Libraries/]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio files
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.suo
+*.tmp
+*.bak
+*.swp
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Unity auto-generated files
+*.pidb
+*.booproj
+*.svd
+*.userprefs
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.bak
+*.swp
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash logs
+*.stacktrace
+
+# Build results
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.xcsettings
+*.xcassets
+*.xcconfig
+*.xcuserstate
+*.xcuserdatad
+*.xcsettings
+*.xcassets
+*.xcconfig
+
+# Asset meta data
+*.meta
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Other
+*.log
+
+# Ignore Packages folder except manifest.json
+Packages/*
+!Packages/manifest.json
